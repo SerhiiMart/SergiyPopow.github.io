@@ -13,6 +13,10 @@ button {
   border: rgb(116, 109, 109) 2px solid
 }
 
+.row {
+  width: 95%;
+}
+
 #header-nav {
   background-color: #566a6e;
   border-radius: 0;
