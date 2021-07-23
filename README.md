@@ -3,4 +3,4 @@
 Exercise answers for Coursera courses. Old account name.
 
 
-Repo for storing.
+Repo for archiving.
